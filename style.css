@@ -3,3 +3,13 @@ body {
     color: #a4ff4e;
     font-family: Arial, sans-serif;
 }
+
+h1 {
+    color: #45ffda;
+    text-align: center;
+}
+
+h2 {
+    color: #5028ff;
+    text-align: right;
+}
